@@ -18,3 +18,4 @@ jspm_packages/
 .bak
 .json.bak
 test.js
+app.js
