@@ -13,10 +13,6 @@
     // var grind = require("./modules/grind.js")
     
     // =============== GRIND COMMANDS =============== //
-    var fish = require("./modules/fish.js");
-    fish = fish.fish()
-
-
 
     const start = ['!r']
     var continue1 = true;

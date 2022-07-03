@@ -53,7 +53,6 @@
         minutes = minutes < 10 ? "0" + minutes : minutes;
         seconds = seconds < 10 ? "0" + seconds : seconds;
         day = day < 10 ? "0" + day : day
-        console.log(tynt.White(`[${hour}:${minutes}:${seconds}] `))
         return tynt.White(`[${hour}:${minutes}:${seconds}] `)
     }
 
