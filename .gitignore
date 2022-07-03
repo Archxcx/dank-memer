@@ -2,6 +2,9 @@
 logs
 *.log
 
+# folders
+rush/
+
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -14,13 +17,4 @@ jspm_packages/
 .json
 .bak
 .json.bak
-./1.js
-./2.js
-./3.js
-./4.js
-./5.js
-./6.js
-./app2.js
-./bjm.js
-./bjm.js
-./blackjack.js
+test.js

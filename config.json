@@ -1,0 +1,48 @@
+{
+    "client": {
+        "token": "placeholder",
+        "serverID": "placeholder",
+        "channelID": "placeholder"
+    },
+    "timers": {
+        "pizza": null,
+        "horseshoe": null,
+        "daily": null
+    },
+    "commands": {
+        "fish": true,
+        "dig": true,
+        "search": true,
+        "hunt": true,
+        "beg": true,
+        "pm": true,
+        "crime": true,
+        "slots": true,
+        "se": true,
+        "hl": true,
+        "bet": true
+    },
+    "search:": {
+        "soul's chamber": [],
+        "aeradella's home": [],
+        "phoenix pits": [],
+        "grass": [],
+        "kitchen": [],
+        "air": [],
+        "garage": [],
+        "area 51": [],
+        "dresser": [],
+        "mailbow": [],
+        "street": [],
+        "bushes": [],
+        "glovebox": [],
+        "sewer": [],
+        "bank": [],
+        "car": [],
+        "vacuum": []
+    },
+    "crime": {
+        "tax evasion": [],
+        "murder": []
+    }
+}
